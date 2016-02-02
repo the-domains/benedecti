@@ -1,0 +1,28 @@
+name: benedecti
+favicon: null
+layout_spectrum: 0.28603154327720404
+typography_spectrum: 0.8271639063023031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8419651039876044
+  lightness: 0.45198461203835905
+  saturation: 0.27610203181393445
+  rhythmicContrast: 0.16482316027395427
+purpose: []
